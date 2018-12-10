@@ -13,7 +13,7 @@ In this section, you will find articles and books that introduce and combine lit
 ISBN-13: 978-1783300709 [Link to UNT Record](https://iii.library.unt.edu/record=b5762493~S12).
  
  
-Allan presents a variety of different theories, teaching approaches, and learning styles that are shaping the “current higher education landscape.” She examines how these facets can be used within the library to enhance information instruction. Her aim is to present this information in a way that assists librarians with “designing, developing, and evaluating” their courses and teaching methods to impact student learning. 
+<p style="text-indent: 40px">Allan presents a variety of different theories, teaching approaches, and learning styles that are shaping the “current higher education landscape.” She examines how these facets can be used within the library to enhance information instruction. Her aim is to present this information in a way that assists librarians with “designing, developing, and evaluating” their courses and teaching methods to impact student learning. </p>
  
  
 **Anderson, Karen and Frances A. May. 2010. "Does the Method of Instruction Matter? An Experimental Examination of Information Literacy in the Online, Blended, and Face-to-Face Classrooms." The Journal of Academic Librarianship 36, no.6: 495-500.** 
