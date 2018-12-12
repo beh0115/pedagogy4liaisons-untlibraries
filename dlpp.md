@@ -52,7 +52,7 @@ IBSN: 9780838989098 [Link to UNT Record](https://iii.library.unt.edu/record=b592
 
 
 **Hodge, Megan. 2015. "Pedagogy for Librarians." In *Skills to Make a Librarian: Transferable Skills Inside and Outside the Library,* edited by Dawn Lowe-Wincentsen, 155-174. Cambridge, UK: Chandos.**  
-DOI: 10.1016/B978-0-08-100063-2.00014-4 (Link to UNT Record](http://dx.doi.org/10.1016/B978-0-08-100063-2.00014-4).
+DOI: 10.1016/B978-0-08-100063-2.00014-4 [Link to UNT Record](http://dx.doi.org/10.1016/B978-0-08-100063-2.00014-4).
 
  
 <p style="text-indent: 40px">Hodge makes notes that if courses on pedagogy are offered in a library school program, then they are traditional presented as electives. Due to the infrequency of their availability and/ or lack of requirement, librarians who find themselves in teaching roles have to learn to the job. Instruction sessions then often just scratch the surface because librarians do not know how to make the most of their limited time with students. What activities and assessments manage to create for their short classes also fail to impart deep learning on student. Hodge explains some basic, digestible, and useful pedagogies that can be used to create “instructional repertoires.” </P>  
