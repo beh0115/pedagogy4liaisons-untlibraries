@@ -41,7 +41,7 @@ ISSN: 10949054 [Link to Record](https://libproxy.library.unt.edu/login?url=https
 <p style="text-indent: 40px">Norgaard argues while composition and rhetoric pedagogies have failed to conceptualize how “libraries and information literacy” can be a tool for faculty, librarians have much to gain in implementing composition and rhetoric pedagogies into library instruction as both the means to enrich disciplinary instruction but to deepen the concept to information literacy, itself. For Norgaard, information literacy is as an ancient a study as writing but our view of it has not been presented thusly in composition and rhetoric studies—hence, the failure of these theories to position the libraries as partners of composition and rhetoric discourses. Librarians, then, must reclaim their side of the pedagogical coin by “‘rhetoriciz[ing]’ information literacy” in a “full[er] social and cultural” praxis that is “situated” in “process-oriented” structures from “classical rhetoric tradition[s] and contemporary [discourses].” A companion article takes this idea further. </p> 
 
 
-**—. 2004. "Writing Information Literacy in the Classroom: Pedagogical Enactments and Implications." *Reference & User Services Quarterly* 43 (3): 220-226.**
+**—. 2004. "Writing Information Literacy in the Classroom: Pedagogical Enactments and Implications." *Reference & User Services Quarterly* 43 (3): 220-226.**  
 ISSN: 10949054 [Link to UNT Record](https://libproxy.library.unt.edu/login?url=https://search.proquest.com/docview/217893490?accountid=7113).  
 
 <p style="text-indent: 40px">In the companion piece to “Writing Information Literacy: Contribution to a Concept,” Norgaard elaborates on the relationship between information literacy and composition and rhetoric. Both have migrated from skill-based literacy and writing to “inquiry” and “meaning-[making]” exploration (that are now better expressed by the ACRL Framework and New Rhetorics), but the dialog to connect what each discipline is doing has fallen through the collaborative cracks.  This is in part due to the stereotypical assignments or concepts that professor associated with the library: the research paper, plagiarism, generic teaching about how to use the library, and a warehouse of information. By embracing composition and rhetoric pedagogies, librarians can develop tactical measures to disrupt these preconceived ideas with instruction that imparts information literacy and “intellectual inquiry” to unify these two fields. </p>   
@@ -101,7 +101,7 @@ DOI: 10.1353/pla.2002.0050  [Link to Record](https://muse.jhu.edu/article/27238)
 <p style="text-indent: 40px">Smale and Francoeur discuss collaborative methods that encourage students to claim their research experiences as developing viable expertise. In doing so, they deconstruct the librarian as “the sole research expert.” As a result, they explain that student engage their agency and gain courage to participate in their learning environments. </p>  
 
 
-**Wang, Li. 2007. "Sociocultural Learning Theories and Information Literacy Teaching Activities in Higher Education." References & User Services Quarterly 47, no. 2: 149-158.**
+**Wang, Li. 2007. "Sociocultural Learning Theories and Information Literacy Teaching Activities in Higher Education." References & User Services Quarterly 47, no. 2: 149-158.**  
 ISSN: 10949054  [Link to Record](https://search.proquest.com/docview/217879997?pq-origsite=summon). 
  
 <p style="text-indent: 40px">Wang argues that learning is increased when it is fostered in a community environment. His research looks at “collaborative learning models based on sociocultural learning theories” to conduct information literacy instruction. Sociocultural theories that focus on the social aspects of learning and learner-centered pedagogies like “the jigsaw model, the reciprocal model…collaborative peer groups…problem-and resource-based learning” yield greater results in student learning assessment because they create a “community-of-learners.” Wang expresses how more learning is achieved through these theories over traditional instruction methods. </p>   
@@ -109,7 +109,7 @@ ISSN: 10949054  [Link to Record](https://search.proquest.com/docview/217879997?p
 
 ## Critical Theory 
 **Bales, Stephen. 2015. *The Dialectic of Academic Librarianship: a Critical Approach*. Sacramento: Litwin Books.**  
-ISBN: 9781936117895  [Link to UNT Record](https://iii.library.unt.edu/record=b5411153~S12. 
+ISBN: 9781936117895  [Link to UNT Record](https://iii.library.unt.edu/record=b5411153~S12). 
 
 <p style="text-indent: 40px">The work examines the academic library's position as a culturally and historically situated producer and curator of knowledge and its instrumental role in driving social reproduction and the status quo through the discussions and insights of the modern capitalist academic library (MCAL) and dialectics, dialectical material monism as alternative way to understand the MCAL, how the MCAL relates to ideology, and the counter-hegemonic academic librarian, and transition of quantity into quality as a tool for counter-hegemony. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>  
 
@@ -144,8 +144,8 @@ ISBN: 9781634000468  [Link to UNT Record](https://iii.library.unt.edu/record=b57
 <p style="text-indent: 40px">Critten criticizes the focus on author-authority and promotes a “value-laden binary” that doesn’t encourage the types to critical thinking that information instruction seeks. She argues that the learner’s experience and interpretation of the information as its “constructor” is both empowering to the learner’s own authority and encourages the needed learning engagement in critical thinking. Critten explores pedagogical approaches and highlights frames in the ACL Framework. </p>  
 
 
-**Downey, Annie. 2016. *Critical Information Literacy: Foundations, Inspiration, and Ideas.* California: Library Juice Press.**  
-ISBN: 9781634000437  [Link to UNT Record](https://iii.library.unt.edu/record=b5899077~S12. 
+**Downey, Annie. 2016. *Critical Information Literacy: Foundations, Inspiration, and Ideas.* California: Library Juice Press.**    
+ISBN: 9781634000437  [Link to UNT Record](https://iii.library.unt.edu/record=b5899077~S12). 
 
 <p style="text-indent: 40px">Downey analyzes and summarizes the current discussion on critical information literacy. She explores how librarians and library practioners are defining it, “design[ing]” it “teach[ing]” it, and “implement[ing]” it in their work. She also examines how institutions are responding to it by developing campus wide initiatives to support critical information literacy learning objectives. </p>  
 
@@ -157,7 +157,7 @@ ISBN: 9781634000437  [Link to UNT Record](https://iii.library.unt.edu/record=b58
 
 
 **Mehra, Bharat and Kevin Rioux, eds. 2015. *Progressive Community Action : Critical Theory and Social Justice in Library and Information Science.* Sacramento: Litwin Books.**   
-ISBN: 9781634000420  [Link to UNT Record](https://iii.library.unt.edu/record=b5795397~S12. 
+ISBN: 9781634000420  [Link to UNT Record](https://iii.library.unt.edu/record=b5795397~S12). 
 
 <p style="text-indent: 40px">The contributors explore intersections between critical theory and social justice in library and information science, while focusing on social relevance and community involvement to promote community-wide changes. Included in the text are chapters discussing libraries as convivial tools in action, questions about information literacy as a mechanism to disrupt the perceptions regarding big data’s influences on human behavior,  informational democracy and social-generated information. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>  
 
@@ -211,7 +211,7 @@ ISBN:	9780998587516  [Link to UNT Record](http://iii.library.unt.edu/record=b365
 <p style="text-indent: 40px">Morgan and Davies present an orientation pedagogy that has become popular is the United Kingdom, Europe, and Australia. They explain that the simplicity of this methods makes it especially effective. It uses audience participation through question and answer exercises and humor with engaging lectures. This style capitalizes on student engagement. </p>  
 
 
-**Walsh, Andrew. 2018. *The Mini Book of Teaching Tips for Librarians.* 2nd ed. Huddersfield: Innovative Libraries.**
+**Walsh, Andrew. 2018. *The Mini Book of Teaching Tips for Librarians.* 2nd ed. Huddersfield: Innovative Libraries.**  
 ISBN:	9780998587516  [Link to UNT Record](https://iii.library.unt.edu/record=b6076992~S12).
 
 <p style="text-indent: 40px">Walsh expands on his previous published book to include fifty percent more content in this mini and impactful book. The text features short tips and interventions that can be added to any instruction session to deepen learning and strengthen learning outcomes. Walsh provides over thirty-eight theories and topics, including active learning, constructivist learning, flipped classroom design, game theory, assessment, and blending learning.  Complier’s Note: Added in 2018 for second edition of annotated bibliography.  </p>  
@@ -224,19 +224,19 @@ ISBN:	9781911500070  [Link to UNT Record](https://iii.library.unt.edu/record=b60
 
 
 ## Educational/ Learner Psychology and Student-Centered Universal Design 
-**Avery, Susan and Jim Hahn. 2008. “Making Meaning: Using a Metaphor as a Tool to Increase Student Understanding.” In Cook and Sittler. 61-68.**
+**Avery, Susan and Jim Hahn. 2008. “Making Meaning: Using a Metaphor as a Tool to Increase Student Understanding.” In Cook and Sittler. 61-68.**  
 [Link to Reference](. .
 
 <p style="text-indent: 40px">Avery and Hahn seek to increase understanding of the research methodology by using cognitive pedagogies to frame the research process in everyday language. Their cognitive strategy focuses on ethos of metaphor to increase the likely-hood that skills learned in the class are transferable to other areas of life. As a result, their understanding of research and research process are increased overall.  </p>  
 
 
-**Crumb, Debbie and Eric Palo. 2008. “It’s Showtime! Engaging Students in Library Instruction.” In Cook and Sittler. 30-39.**
+**Crumb, Debbie and Eric Palo. 2008. “It’s Showtime! Engaging Students in Library Instruction.” In Cook and Sittler. 30-39.**  
 [Link to Reference](.  
 
 <p style="text-indent: 40px">Crumb and Palo showcase Universal Design for Learning strategies. Universal Design for Learning provides a praxis for recognition, strategic, and affective learning methodologies. Crum and Palo also used active learning pedagogies that utilize playing games.  </p>  
 
 
-**Hensley, Randall. 1991. "Learning Style Theory and Learning Transfer Principles during Reference Interview Instruction." *Library Trends* 39, no. 3: 203-9.**
+**Hensley, Randall. 1991. "Learning Style Theory and Learning Transfer Principles during Reference Interview Instruction." *Library Trends* 39, no. 3: 203-9.**  
 [Direct Link to Item](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.856&rep=rep1&type=pdf). 
 
 <p style="text-indent: 40px">Hensley argues that learning style theory, based in educational psychology, is an effective pedagogy to use during reference desk interview processes to “facilitate more effective interactions.” He believes that “knowledgeable” staff are more prepared to use learning style theory because it incorporates to two premises in educational psychology: learning styles and learning transfer. </p>  
@@ -278,7 +278,7 @@ ISBN: 9781634000277 [Link to UNT Record](https://iii.library.unt.edu/record=b590
 <p style="text-indent: 40px">Lew and Yousefi explore “intersections of gender with sexuality, race, class, and other social categories within libraries and other information environments have highlighted the need and desire of this community to engage with these concepts both in theory and praxis.” They focus on feminist theory in relation to library management, professional interactions, and career advancement. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>  
 
 
-**Schlesselman-Tarango, Gina and Frances Suderman. 2016. “Critical Pedagogy and the Information Cycle: A Practical Application.” In Pagowsky and McElroy, 59-70.**
+**Schlesselman-Tarango, Gina and Frances Suderman. 2016. “Critical Pedagogy and the Information Cycle: A Practical Application.” In Pagowsky and McElroy, 59-70.**  
 [Link to Reference](. .  
 
 <p style="text-indent: 40px">Schlesselman-Tarango and Suderman combine critical pedagogy, feminism, and cyberfeminism facilitate critical thinking on sociopolitical topics in the news. They guide students to question how information is created and advertised on the web (and in databases) as well as observe the “social and political nature of information,” itself, and their discourse communities. Their exercise establish neutral, open classrooms that allow the students to discuss and learn collectively. Through the activities, the authors allowed to students examine “user-generated media” so that they may consider “the digital realm as a…productive space.” Students were encouraged to use any information resource they felt comfortable with instead of forcing the students to use databases. </p>  
