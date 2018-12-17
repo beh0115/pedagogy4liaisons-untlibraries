@@ -2,7 +2,7 @@
 layout: page
 title: Comprehensive and Intensive Anthologies
 tagline: pedagogy4liaisons
-permalink: /caia.html
+permalink: /anthologies.html
 ---
 
 # Comprehensive and Intensive Anthologies
@@ -44,3 +44,20 @@ IBSN: 9781477308257 [Link to UNT Record](https://iii.library.unt.edu/record=b571
 
 <p style="text-indent: 40px">Sonnenwald attributes the lack of theoretical foundation to the LIS profession to the broad spectrum of the profession itself. The broad nature of the profession and the absent theoretical stability makes adopting theory and pedagogy difficult for LIS practioners. Sonnenwald and the authors in the text aim to share the difficulties, achievements, and enthusiasms of those who have endeavored to use theory and pedagogy. </p>  
 *Suggested Chapters: 1-2, 4-11, 15, 17.*
+
+## Framing Information Literacy Series
+
+**Oberlies, Mary K. and Janna Mattson, eds. 2018. *Framing Information Literacy: Teaching Grounded in Theory, Pedagogy, and Practice.* 6 vols. Chicago: Association of College and Research Libraries.**  
+
+Each volume contains the table of contents and index for the entire set, as well as an overarching introduction and conclusion, for easy cross-referencing across volumes.  
+
+* Volume 1:  [Research as Inquiry](http://iii.library.unt.edu/record=b6026221~S12). ISBN: 9780838989821.  
+* Volume 2: [Information has Value](http://iii.library.unt.edu/record=b6026248~S12). ISBN: 9780838989845.  
+* Volume 3: [Searching as Strategic Exploration](http://iii.library.unt.edu/record=b6026261~S12). ISBN: 9780838989869.  
+* Volume 4: [Information Creation as a Process](http://iii.library.unt.edu/record=b6026264~S12). ISBN: 9780838989883.  
+* Volume 5: [Scholarship as Conversation](http://iii.library.unt.edu/record=b6026256~S12). ISBN: 9780838989906.  
+* Volume 6: [Authority is Constructed and Contextual](http://iii.library.unt.edu/record=b6026239~S12). ISBN: 9780838989920.  
+
+<p style="text-indent: 40px">Framing Information Literacy: Teaching Grounded in Theory, Pedagogy, and Practice is a collection of lesson plans grounded in theory and the ACRL Framework for Information Literacy for Higher Education. 52 chapters over six volumes provide approachable explanations of the ACRL Frames, various learning theory, pedagogy, and instructional strategies, and how they are used to inform the development of information literacy lesson plans and learning activities. Each volume explores one frame, in which chapters are grouped by broad disciplinary focus: social sciences, arts and humanities, science and engineering, and multidisciplinary. Every chapter starts with a discussion about how the author(s) created the lesson, any partnerships they nurtured, and an explanation of the frame and methodology and how it relates to the development of the lesson, and provides information about technology needs, pre-instruction work, learning outcomes, essential and optional learning activities, how the lesson can be modified to accommodate different classroom setups and time frames, and assessment. </p>  
+
+<p style="text-indent: 40px">The six volumes of Framing Information Literacy aim to address the teaching anxiety and insecurity librarians often experience by offering narratives with the lesson plans that provide insight into the work involved in developing a polished lesson plan; begin filling the teaching and learning knowledge gap for librarians in the context of information literacy, capturing the knowledge and practice of fifty-eight teacher librarians and five teaching faculty from forty-one institutions for others to incorporate and build upon; and to explore how teacher librarians use the ACRL Framework in conjunction with educational theory and pedagogy to help readers form their own approaches to teaching information literacy. *Complier’s Note: Added in 2018 for second edition of annotated bibliography*. </p>   
