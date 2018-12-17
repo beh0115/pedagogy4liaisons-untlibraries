@@ -35,7 +35,7 @@ ISSN: 10949054  [Link to Record](https://libproxy.library.unt.edu:9443/login?url
 
 
 **Leckie, Gloria and Anne Fullerton. 1999. "The Roles of Academic Librarians in Fostering Pedagogy for Information Literacy." Paper presented at the *ACRL Ninth National Conference*. Detroit, Michigan, April.**  
-[Direct Link to Item])http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/pdf/leckie99.pdf).  
+[Direct Link to Item](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/pdf/leckie99.pdf).  
  
 <p style="text-indent: 40px">Leckie and Fullerton argue that successful teaching of information literacy to students requires collaboration between faculty and librarians, who often “do not understating each other.” To achieve understanding and cultivate collaborative relationships, faculty and librarians must engage in “pedagogical discourse.” Only through such discussions can librarians and faculty develop course and program specific information literacy. </p>    
 
