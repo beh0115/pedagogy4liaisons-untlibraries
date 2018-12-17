@@ -2,7 +2,7 @@
 layout: page
 title: Discovering Literacies, Pedagogy, and Philosophy
 tagline: pedagogy4liaisons
-permalink: /dlpp.html
+permalink: /pedagogy.html
 ---
 
 # Discovering Literacies, Pedagogy, and Philosophy
