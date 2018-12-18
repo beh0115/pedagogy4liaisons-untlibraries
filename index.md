@@ -16,10 +16,8 @@ Most annotations in this bibliography were created from abstracts or editor-prov
 ### TABLE OF CONTENTS
 [Discovering Literacies, Pedagogy, and Philosophy](https://behenson.github.io/pedagogy4liaisons/pedagogy.html)
 [Comprehensive and Intensive Anthologies](https://behenson.github.io/pedagogy4liaisons/anthologies.html)  
-⋅⋅⋅Contains
-* Framing Information Literacy Series
+* Framing Information Literacy Series  
 [Types of Pedagogy](https://behenson.github.io/pedagogy4liaisons/types.html)  
-⋅⋅⋅Contains
 * Composition and Rhetoric  
 * Constructivism, Constructionism, and Learning Cultures  
 * Critical Theory  
@@ -27,7 +25,6 @@ Most annotations in this bibliography were created from abstracts or editor-prov
 * Educational/ Learner Psychology and Student-Centered Universal Design  
 * Feminism  
 [Pedagogy in Context](https://behenson.github.io/pedagogy4liaisons/context.html)  
-⋅⋅⋅Contains
 * Discipline Related Instruction and Research  
 * Collaborating with Faculty and Instructional Designers  
 * Assessment  
