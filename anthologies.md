@@ -13,9 +13,8 @@ In this section, you will find a list of anthologies whose suggested content equ
 **Accardi, Maria T., Emily Drabinski, and Alana Kumbier, eds. 2010. *Critical Library Instruction: Theories and Methods.* Minnesota: Library Juice Press.**   
 IBSN: 9781936117017 [Link to UNT Record](https://iii.library.unt.edu/record=b3837775~S12).
 
-<p style="text-indent: 40px">The editors introduce the concept of praxis-based pedagogy for instruction librarians. They recognize the gap between theories taught in library school and the practices of those working in the field. They, too, recognize the gap in showing students where to find information on the library website and teaching them information literacy as well as the struggle to fill this gap in a 50 minute time slot to students that the librarian may never see again. They argue that adopting critical theory into library instruction not only increase the relevancy of the instruction itself but it also deeps the learning experience of the students. </p>
-*Suggested Chapters: 1-2, 4-5, 6-9, 11, 14-22*.   
-
+<p style="text-indent: 40px">The editors introduce the concept of praxis-based pedagogy for instruction librarians. They recognize the gap between theories taught in library school and the practices of those working in the field. They, too, recognize the gap in showing students where to find information on the library website and teaching them information literacy as well as the struggle to fill this gap in a 50 minute time slot to students that the librarian may never see again. They argue that adopting critical theory into library instruction not only increase the relevancy of the instruction itself but it also deeps the learning experience of the students. 
+<em>Suggested Chapters: 1-2, 4-5, 6-9, 11, 14-22</em>.</p>   
 
   
 **Leckie, Gloria J., Lisa M. Given, and John E. Buschman, eds. 2010. *Critical Theory for Library and Information Science: Exploring the Social from Across the Disciplines.* California: ABC-CLIO, LLC.**   
