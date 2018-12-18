@@ -14,21 +14,24 @@ This repository is a digtal copy of an annotated bibliography produced for the U
 Most annotations in this bibliography were created from abstracts or editor-provided summaries of each work. Therefore, they vary in length and depth. The catagories combine pedagogies that are similar in scope or philosophical purpose. This annotated bibliography is not exhaustive. 
 
 ### TABLE OF CONTENTS
-* [Discovering Literacies, Pedagogy, and Philosophy](https://behenson.github.io/pedagogy4liaisons/pedagogy.html)
-* [Comprehensive and Intensive Anthologies](https://behenson.github.io/pedagogy4liaisons/anthologies.html)  
-⋅⋅⋅* Framing Information Literacy Series
-* [Types of Pedagogy](https://behenson.github.io/pedagogy4liaisons/types.html)  
-⋅⋅⋅* Composition and Rhetoric  
-⋅⋅⋅* Constructivism, Constructionism, and Learning Cultures  
-⋅⋅⋅* Critical Theory  
-⋅⋅⋅* Direct Instruction and Engagement-Based Instruction  
-⋅⋅⋅* Educational/ Learner Psychology and Student-Centered Universal Design  
-⋅⋅⋅* Feminism  
-*[Pedagogy in Context](https://behenson.github.io/pedagogy4liaisons/context.html)  
-⋅⋅⋅* Discipline Related Instruction and Research  
-⋅⋅⋅* Collaborating with Faculty and Instructional Designers  
-⋅⋅⋅* Assessment  
-* [Additional Reading and References](https://behenson.github.io/pedagogy4liaisons/references.html)  
+[Discovering Literacies, Pedagogy, and Philosophy](https://behenson.github.io/pedagogy4liaisons/pedagogy.html)
+[Comprehensive and Intensive Anthologies](https://behenson.github.io/pedagogy4liaisons/anthologies.html)  
+⋅⋅⋅Contains
+* Framing Information Literacy Series
+[Types of Pedagogy](https://behenson.github.io/pedagogy4liaisons/types.html)  
+⋅⋅⋅Contains
+* Composition and Rhetoric  
+* Constructivism, Constructionism, and Learning Cultures  
+* Critical Theory  
+* Direct Instruction and Engagement-Based Instruction  
+* Educational/ Learner Psychology and Student-Centered Universal Design  
+* Feminism  
+[Pedagogy in Context](https://behenson.github.io/pedagogy4liaisons/context.html)  
+⋅⋅⋅Contains
+* Discipline Related Instruction and Research  
+* Collaborating with Faculty and Instructional Designers  
+* Assessment  
+[Additional Reading and References](https://behenson.github.io/pedagogy4liaisons/references.html)  
 
 ### Intended Use and Invitation for Collaboration
 Materials in this digital annotated bibliopgrahy are linked to the catalog at the UNT Libraries, databases hosting the item, or direct link to open access links. Some items have cross-reference links to an anthology in the reference page. *All rights are reserved and maintianed by the rights' owner.*
