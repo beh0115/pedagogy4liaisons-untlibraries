@@ -2,7 +2,7 @@
 layout: page
 title: Pedagogy in Context
 tagline: pedagogy4liaisons
-permalink: /Context.html
+permalink: /context.html
 ---
 
 # Pedagogy in Context
