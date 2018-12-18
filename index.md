@@ -38,8 +38,8 @@ The complier intends for this bibliography and its assocated documents to be a "
 
 If there are materials that you would like added to this list or if you would like to revise an existing annotation, please send them to the Liaison Workgroup Co-Chairs or the project complier, Brea Henson, by email or use the GitHub pull feature. 
 
->_Each year a .pdf version is archived in the [UNT Scholarly Works Repository](/https://digital.library.unt.edu/explore/collections/UNTSW/)._   
+>Each year a .pdf version is archived in the [UNT Scholarly Works Repository](/https://digital.library.unt.edu/explore/collections/UNTSW/).   
 
 
 
-Last Updated December 2018. Complied by [Brea Henson](https://www.library.unt.edu/people/brea-henson), UNT Libraries. 
+_Last Updated December 2018. Complied by [Brea Henson](https://www.library.unt.edu/people/brea-henson), UNT Libraries._ 
