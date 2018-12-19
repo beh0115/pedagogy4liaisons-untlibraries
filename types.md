@@ -111,7 +111,7 @@ ISSN: 10949054  [Link to Record](https://search.proquest.com/docview/217879997?p
 **Bales, Stephen. 2015. *The Dialectic of Academic Librarianship: a Critical Approach*. Sacramento: Litwin Books.**  
 ISBN: 9781936117895  [Link to UNT Record](https://iii.library.unt.edu/record=b5411153~S12). 
 
-<p style="text-indent: 40px">The work examines the academic library's position as a culturally and historically situated producer and curator of knowledge and its instrumental role in driving social reproduction and the status quo through the discussions and insights of the modern capitalist academic library (MCAL) and dialectics, dialectical material monism as alternative way to understand the MCAL, how the MCAL relates to ideology, and the counter-hegemonic academic librarian, and transition of quantity into quality as a tool for counter-hegemony. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>  
+<p style="text-indent: 40px">The work examines the academic library's position as a culturally and historically situated producer and curator of knowledge and its instrumental role in driving social reproduction and the status quo through the discussions and insights of the modern capitalist academic library (MCAL) and dialectics, dialectical material monism as alternative way to understand the MCAL, how the MCAL relates to ideology, and the counter-hegemonic academic librarian, and transition of quantity into quality as a tool for counter-hegemony. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
 **Battista, Andrew and Jill Conte. 2016. “Teaching with Data: Visualization and Information as a Critical Process.” In Pagowsky and McElroy, 147-154.** 
@@ -135,7 +135,7 @@ ISBN: 9781936117895  [Link to UNT Record](https://iii.library.unt.edu/record=b54
 **Cooke Nicole A, and Miriam E Sweeney, eds. 2015. *Teaching for Justice: Implementing Social Justice in the LIS Classroom*. Sacramento: Litwin Books.**  
 ISBN: 9781634000468  [Link to UNT Record](https://iii.library.unt.edu/record=b5795403~S12). 
 
-<p style="text-indent: 40px">Teaching for Justice describes the efforts of LIS faculty and instructors who feature social justice theory and strategies in their courses and classroom practices. The contributors discuss a unified social justice stance for library and information science curricula, using sustainability and critical librarianship as a framework for LIS education, and the place of cultural humility in the LIS profession and education. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>    
+<p style="text-indent: 40px">Teaching for Justice describes the efforts of LIS faculty and instructors who feature social justice theory and strategies in their courses and classroom practices. The contributors discuss a unified social justice stance for library and information science curricula, using sustainability and critical librarianship as a framework for LIS education, and the place of cultural humility in the LIS profession and education. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>    
 
 
 **Critten, Jessica. 2016. “Death of the Author(ity): Responding Students as Constructors of Meaning in Information literacy.” In McNicol. 19-29.**  
@@ -159,13 +159,13 @@ ISBN: 9781634000437  [Link to UNT Record](https://iii.library.unt.edu/record=b58
 **Mehra, Bharat and Kevin Rioux, eds. 2015. *Progressive Community Action : Critical Theory and Social Justice in Library and Information Science.* Sacramento: Litwin Books.**   
 ISBN: 9781634000420  [Link to UNT Record](https://iii.library.unt.edu/record=b5795397~S12). 
 
-<p style="text-indent: 40px">The contributors explore intersections between critical theory and social justice in library and information science, while focusing on social relevance and community involvement to promote community-wide changes. Included in the text are chapters discussing libraries as convivial tools in action, questions about information literacy as a mechanism to disrupt the perceptions regarding big data’s influences on human behavior,  informational democracy and social-generated information. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>  
+<p style="text-indent: 40px">The contributors explore intersections between critical theory and social justice in library and information science, while focusing on social relevance and community involvement to promote community-wide changes. Included in the text are chapters discussing libraries as convivial tools in action, questions about information literacy as a mechanism to disrupt the perceptions regarding big data’s influences on human behavior,  informational democracy and social-generated information. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
 **Nicholson, Karen P. and Maura Seale, eds. 2018. *The Politics of Theory and the Practice of Critical Librarianship.* Sacramento: Library Juice Press.**   
 ISBN: 9781634000420  [Link to UNT Record](https://iii.library.unt.edu/record=b6018116~S12).  
 
-<p style="text-indent: 40px">Nicholson and Seale explore the increasing literature on critical librarianship or “Critlib." Critlib aims to “destabilize normative discourses and practices with LIS” by “engag[ing] in inclusive and non-authoritarian pedagogies.” As a combination of scholarship, activism, and radical intellectualism, Critlib analyzes librarianship to bring social justice concepts into librarian work. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>  
+<p style="text-indent: 40px">Nicholson and Seale explore the increasing literature on critical librarianship or “Critlib." Critlib aims to “destabilize normative discourses and practices with LIS” by “engag[ing] in inclusive and non-authoritarian pedagogies.” As a combination of scholarship, activism, and radical intellectualism, Critlib analyzes librarianship to bring social justice concepts into librarian work. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
 **Polkinghorne, Sarah. 2016. “Critical Consciousness and Search: An Introductory Visualization.” In Pagowsky and McElroy, 81-86.**  
@@ -202,7 +202,7 @@ ISBN: 9780838986936  [Link to UNT Record](https://iii.library.unt.edu/record=b54
 **Eng, Norman. 2017. *Teaching College: The Ultimate Guide to Learning, Presenting, and Engaging Students*. New York: Norman Eng.**  
 ISBN:	9780998587516  [Link to UNT Record](https://iii.library.unt.edu/record=b5841009~S12).  
 
-<p style="text-indent: 40px">Eng analyzes the lack of engagement in today’s classrooms. He uses principles from advertising to teach instructors how to target information to their students. He also examines how to reconstruct syllabi so that they are read, develop lessons that stimulate deep engagement and learning with today’s students, and create active presentations using active learning teaching methods. Eng aims to teach new instructors how to get their students reading, participating, and caring about their academic work. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>  
+<p style="text-indent: 40px">Eng analyzes the lack of engagement in today’s classrooms. He uses principles from advertising to teach instructors how to target information to their students. He also examines how to reconstruct syllabi so that they are read, develop lessons that stimulate deep engagement and learning with today’s students, and create active presentations using active learning teaching methods. Eng aims to teach new instructors how to get their students reading, participating, and caring about their academic work. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
 **Morgan, Nigel and Linda Davies. 2008. “How Cephalonia Can Conquer the World (Or at the Very Least: Your Students!): A Library Orientation Case Study From Cardiff University.” In Cook and Sittler. 20-29.**   
@@ -214,13 +214,13 @@ ISBN:	9780998587516  [Link to UNT Record](http://iii.library.unt.edu/record=b365
 **Walsh, Andrew. 2018. *The Mini Book of Teaching Tips for Librarians.* 2nd ed. Huddersfield: Innovative Libraries.**  
 ISBN:	9780998587516  [Link to UNT Record](https://iii.library.unt.edu/record=b6076992~S12).
 
-<p style="text-indent: 40px">Walsh expands on his previous published book to include fifty percent more content in this mini and impactful book. The text features short tips and interventions that can be added to any instruction session to deepen learning and strengthen learning outcomes. Walsh provides over thirty-eight theories and topics, including active learning, constructivist learning, flipped classroom design, game theory, assessment, and blending learning.  Complier’s Note: Added in 2018 for second edition of annotated bibliography.  </p>  
+<p style="text-indent: 40px">Walsh expands on his previous published book to include fifty percent more content in this mini and impactful book. The text features short tips and interventions that can be added to any instruction session to deepen learning and strengthen learning outcomes. Walsh provides over thirty-eight theories and topics, including active learning, constructivist learning, flipped classroom design, game theory, assessment, and blending learning.  <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
 **—. 2018. *The Librarians’ Book on Teaching through Games and Play*. Huddersfield: Innovative Libraries.**  
 ISBN:	9781911500070  [Link to UNT Record](https://iii.library.unt.edu/record=b6076993~S12).  
 
-<p style="text-indent: 40px">Walsh identifies games that can be used to teach information literacy. The aim of the book, as well as the theory discussed therein, is to make information learning playful and effective. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>  
+<p style="text-indent: 40px">Walsh identifies games that can be used to teach information literacy. The aim of the book, as well as the theory discussed therein, is to make information learning playful and effective. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
 ## Educational/ Learner Psychology and Student-Centered Universal Design 
@@ -275,7 +275,7 @@ ISBN:	9781911500070  [Link to UNT Record](https://iii.library.unt.edu/record=b60
 **Lew, Shirley, and Baharak Yousefi. 2017. *Feminists Among Us: Resistance and Advocacy in Library Leadership*. Sacramento: Library Juice Press.**  
 ISBN: 9781634000277 [Link to UNT Record](https://iii.library.unt.edu/record=b5904770~S12).  
 
-<p style="text-indent: 40px">Lew and Yousefi explore “intersections of gender with sexuality, race, class, and other social categories within libraries and other information environments have highlighted the need and desire of this community to engage with these concepts both in theory and praxis.” They focus on feminist theory in relation to library management, professional interactions, and career advancement. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </p>  
+<p style="text-indent: 40px">Lew and Yousefi explore “intersections of gender with sexuality, race, class, and other social categories within libraries and other information environments have highlighted the need and desire of this community to engage with these concepts both in theory and praxis.” They focus on feminist theory in relation to library management, professional interactions, and career advancement. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
 **Schlesselman-Tarango, Gina and Frances Suderman. 2016. “Critical Pedagogy and the Information Cycle: A Practical Application.” In Pagowsky and McElroy, 59-70.**  
