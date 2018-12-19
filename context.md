@@ -53,8 +53,8 @@ ISSN: 07309295 [Link to Record](https://search.proquest.com/docview/215831961?pq
 
 
 ## Assessment
-**Gammons, Rachel. 2016. “Incorporating Critically Conscious Assessment into a Large-Scale Information Literacy Program.” In Pagowsky and McElroy, 235-240.**  
-[Link to Reference](.  
+**Gammons, Rachel. 2016. “Incorporating Critically Conscious Assessment into a Large-Scale Information Literacy Program.” In Pagowsky and McElroy(b), 235-240.**  
+[Link to Reference](https://behenson.github.io/pedagogy4liaisons/references.html).  
 
 <p style="text-indent: 40px">Gammons shares a method to collect large quantities of qualitative assessments from students. The method refrains from asking students about learned skills but learned concepts in a way that provokes reflective learning practices. In doing so, the assessment practice supports “egalitarian and socially minded values of our service profession” and seeks personal feedback from students that encourages their agency in their learning experiences. </p>    
 
