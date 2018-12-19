@@ -24,7 +24,7 @@ ISBN: 978-0838984581 [Link to UNT Record](.
 
 **Ellis, Lydia. 2008. “Plagiarism Instruction Online: Beyond the Citation.” In Cook and Sittler. 110-117.**  
 
-**Fidishun, Dolores. 2002. "Symbolic Interaction and Library Research: Using a Qualitative Methodology to Understand Library Interchange." *portal: Libraries and Academy* 2, no. 3: 443-453.  
+**Fidishun, Dolores. 2002. "Symbolic Interaction and Library Research: Using a Qualitative Methodology to Understand Library Interchange." *portal: Libraries and Academy* 2, no. 3: 443-453.**  
 DOI: 10.1353/pla.2002.0052. [Link to Record](https://muse.jhu.edu/article/27240).  
 
 **Fried Foster, Nancy. 2013. "Understanding How Undergraduates Work." *Studying Students: a Second Look*. Edited by Nancy Friend Foster. Chicago: Association of College and Research Libraries. 83-101.**  
@@ -63,7 +63,7 @@ ISBN: 9780393931358 [Link to UNT Record](http://iii.library.unt.edu/record=b5982
 ISBN: 9780838988473 [Link to UNT Record](https://iii.library.unt.edu/record=b5717285~S12). 
 
 **—. 2016b. *Lesson Plans*. Vol. 2 of *Critical Library Pedagogy Handbook*. Illinois: Association of College and Research Libraries.**   
-https://iii.library.unt.edu/record=b5717294~S12.  
+ISBN: 9780838988510 [Link to UNT Record](https://iii.library.unt.edu/record=b5717294~S12).  
 
 **Pappas, Erin, Celia Emmelhainz, and Maura Seale. 2016. “Thinking Through Visualizations: Critical Data Literacy Using Remittances.” In Pagowsky and McElroy, 179-188.**   
 
@@ -84,7 +84,7 @@ DOI:10.1016/j.acalib.2006.03.006 [Link to Record](https://doi.org/10.1016/j.acal
 DOI: 10.1016/j.acalib.2006.03.006 [Link to Record](https://doi.org/10.1016/j.acalib.2006.03.006).  
 
 **Wilkinson, James. (2000) 2008. "From Transmission to Research: Libraries at the Heart of the Campus." In *Future Teaching Roles for Academic Librarians*. Edited by Alice Harrison Bahr. Philadelphia: The Haworth Press. Published online in *College & Undergraduate Libraries* 6, no. 2: 25-40.**  
-ISBN	0789009749 [Link to UNT Record of the ist Publication](https://iii.library.unt.edu/record=b2373710~S12).
+ISBN	0789009749 [Link to UNT Record of the 1st Publication](https://iii.library.unt.edu/record=b2373710~S12).
 DOI: 10.1300/J106v06n02_03 [Link to Online Record](https://doi.org/10.1300/J106v06n02_03).  
 
 **Willoughby, Lydia and Kelly Blanchat. 2016. “Social Justify Your Lesson Plan: How to Use Social Media to Make Pop Culture Scholarly.” In Pagowsky and McElroy, 207-214.**  
