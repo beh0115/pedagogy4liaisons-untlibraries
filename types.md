@@ -48,7 +48,7 @@ ISSN: 10949054 [Link to UNT Record](https://libproxy.library.unt.edu/login?url=h
 
 
 ## Constructivism, Constructionism, and Learning Cultures 
-**Beatty, Joshua. 2016. “Zotero: A Tool for Constructionist Learning in Critical Information Literacy.” In Pagowsky and McElroy, 215-222.**  
+**Beatty, Joshua. 2016. “Zotero: A Tool for Constructionist Learning in Critical Information Literacy.” In Pagowsky and McElroy(b), 215-222.**  
 [Link to Reference](.  
 
 <p style="text-indent: 40px">Beatty illustrates how reference management software like Zotero can be taught using constructionist pedagogy. Constructionism pedagogy like constructivism encourages students to build their own “‘knowledge structures’” (qtd in) while generating a sharable product. Reference management software allow users to create personal libraries of research topics that can be shared and discussed within a course context. Further, Beatty employs pedagogies developed by Freire. </p>  
@@ -66,7 +66,7 @@ DOI: 10.1300/J106v06n02_05 [Link to Record](https://doi.org/10.1300/J106v06n02_0
 <p style="text-indent: 40px">Bell examines seamless learning cultures. Seamless learning cultures encourages out-of-classroom learning experiences to augment traditional lecture-based teaching styles. However, the library’s role in these cultures can be ambiguous. Bell takes particular care in explore how librarians’ can adopt their instruction methods to better capitalize on seamless learning cultures. </p>  
 
 
-**Browndorf, Margaret. 2016. “My Primary Sources: Using Student Personal History as a Gateway to Historical Context.” In Pagowsky and McElroy, 163-168.**  
+**Browndorf, Margaret. 2016. “My Primary Sources: Using Student Personal History as a Gateway to Historical Context.” In Pagowsky and McElroy(b), 163-168.**  
 [Link to Reference](.  
 
 <p style="text-indent: 40px">Browndorf demonstrates how primary sources can integrate student’s personal experiences with historical research and consider the agency of historical actors. The lessons she uses also incorporate linguistic analyses of power theories to provoke the students to learn about self-agency in relation to “communication and information sharing,” based on a concept of holistic pedagogy created by bell hooks. These topics, Browndork believes, are best learned in constructivist style classrooms as they reinforce the “historical and sociocultural” lessons of the class’s learning objectives. </p>  
@@ -95,7 +95,7 @@ DOI: 10.1353/pla.2002.0050  [Link to Record](https://muse.jhu.edu/article/27238)
 <p style="text-indent: 40px">Schmit illustrates how group discussion and study can facilitate social learning. The objective of this social learning environment is for the students to develop an understanding of evaluation criteria and practice evaluating text. </p>   
 
 
-**Smale, Maura and Stephen Francoeur. 2016. “Moving Students to the Center through Collaborative Documents in the Classroom.” In Pagowsky and McElroy, 9-14.**  
+**Smale, Maura and Stephen Francoeur. 2016. “Moving Students to the Center through Collaborative Documents in the Classroom.” In Pagowsky and McElroy(b), 9-14.**  
 [Link to Reference](. . 
 
 <p style="text-indent: 40px">Smale and Francoeur discuss collaborative methods that encourage students to claim their research experiences as developing viable expertise. In doing so, they deconstruct the librarian as “the sole research expert.” As a result, they explain that student engage their agency and gain courage to participate in their learning environments. </p>  
@@ -114,19 +114,19 @@ ISBN: 9781936117895  [Link to UNT Record](https://iii.library.unt.edu/record=b54
 <p style="text-indent: 40px">The work examines the academic library's position as a culturally and historically situated producer and curator of knowledge and its instrumental role in driving social reproduction and the status quo through the discussions and insights of the modern capitalist academic library (MCAL) and dialectics, dialectical material monism as alternative way to understand the MCAL, how the MCAL relates to ideology, and the counter-hegemonic academic librarian, and transition of quantity into quality as a tool for counter-hegemony. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
-**Battista, Andrew and Jill Conte. 2016. “Teaching with Data: Visualization and Information as a Critical Process.” In Pagowsky and McElroy, 147-154.** 
+**Battista, Andrew and Jill Conte. 2016. “Teaching with Data: Visualization and Information as a Critical Process.” In Pagowsky and McElroy(b), 147-154.** 
 [Link to Reference](. . 
 
 <p style="text-indent: 40px">Battista and Conte use critical pedagogy to explore how accessing, formatting, interpreting, and visualizing data is a culturally constructed process. </p>  
 
 
-**Berg, Jacob. 2016. “Googling Google: Search Engines As Market Actors in Library Instruction.” In Pagowsky and McElroy, 87-94.** 
+**Berg, Jacob. 2016. “Googling Google: Search Engines As Market Actors in Library Instruction.” In Pagowsky and McElroy(b), 87-94.** 
 [Link to Reference](. . 
 
 <p style="text-indent: 40px">Berg argues against the “neutrality” of Google, saying the Google search results are the results of “dominate narratives” and capitalism. He designs his classes so that students are provoked to analyze critically the problems that this causes in search consumption. To encourage critical learning, he also holds his classes in computer labs where the hierarchy of professor/instructor-student is disrupted. </p>  
 
 
-**Carbery, Alan and Sean Leahy. 2016. “From Traditional to Critical: Highlighting Issues of Injustice and Discrimination through Primary Sources.” In Pagowsky and McElroy, 155-162.**  
+**Carbery, Alan and Sean Leahy. 2016. “From Traditional to Critical: Highlighting Issues of Injustice and Discrimination through Primary Sources.” In Pagowsky and McElroy(b), 155-162.**  
 [Link to Reference](.  
 
 <p style="text-indent: 40px">Carbery and Leahy discuss the opportunities that primary sources can have on critical learning experiences. The primary sources that they introduce in their classes allow students to critical think about how we interrupt artifacts from the past and how they inform our understanding of history. During these discussions, they encourage students to think about how minority narratives are often marginalized in history and what roles primary sources play in affirming or disrupting dominant historical narratives. </p>     
@@ -150,7 +150,7 @@ ISBN: 9781634000437  [Link to UNT Record](https://iii.library.unt.edu/record=b58
 <p style="text-indent: 40px">Downey analyzes and summarizes the current discussion on critical information literacy. She explores how librarians and library practioners are defining it, “design[ing]” it “teach[ing]” it, and “implement[ing]” it in their work. She also examines how institutions are responding to it by developing campus wide initiatives to support critical information literacy learning objectives. </p>  
 
 
-**Espinel, Romel. 2016. “Question Authority and Be an Authority: The Future Belongs to Us.” In Pagowsky and McElroy, 21-26.**  
+**Espinel, Romel. 2016. “Question Authority and Be an Authority: The Future Belongs to Us.” In Pagowsky and McElroy(b), 21-26.**  
 [Link to Reference](. .  
 
 <p style="text-indent: 40px">Espinel analyzes the methods that librarians use to teach resource evaluation as methods in which librarians reinforce power structures in the academy and alienate students from their agency. Espinel introduces methods to teach students how to recognize appropriate authorities for an assignment by giving them authority to create their own standards to evaluate sources as consumers of information.  </p>  
@@ -168,7 +168,7 @@ ISBN: 9781634000420  [Link to UNT Record](https://iii.library.unt.edu/record=b60
 <p style="text-indent: 40px">Nicholson and Seale explore the increasing literature on critical librarianship or “Critlib." Critlib aims to “destabilize normative discourses and practices with LIS” by “engag[ing] in inclusive and non-authoritarian pedagogies.” As a combination of scholarship, activism, and radical intellectualism, Critlib analyzes librarianship to bring social justice concepts into librarian work. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
-**Polkinghorne, Sarah. 2016. “Critical Consciousness and Search: An Introductory Visualization.” In Pagowsky and McElroy, 81-86.**  
+**Polkinghorne, Sarah. 2016. “Critical Consciousness and Search: An Introductory Visualization.” In Pagowsky and McElroy(b), 81-86.**  
 [Link to Reference](. .  
 
 <p style="text-indent: 40px">Polkinghorne disrupts linear information seeking and search processes by facilitating discussion about what information searching is instead of teaching how to search. She explains that this validates what searching experience students already have and encourages them to discuss their complex topics and searches freely.  To open the dialog about searches, she has a visual that prompts them to think about their internal and external search processes. Her article discusses the effects that this visual has on students and how it can be used in the classroom. </p>  
@@ -180,7 +180,7 @@ DOI: 10.1353/pla.2005.0041. [Link to Record](https://search.proquest.com/docview
 <p style="text-indent: 40px">Simmons combines the immersive frames of genre theory and cultural theory to transform the work of librarians who liaise to a specific discipline. By examining the practices of a discipline, librarians comprehend and immersive themselves into the discourses of these fields, hereby, enriching their exchanges with faculty and improving their interactions with students. As engaged outsiders to the discipline, librarians are able to mediate discipline discourses to student who may struggle to immerse themselves into their fields of study without out help. Because librarians are one step removed from the discipline themselves, they are better suited to assisting students as they can teach students how to immersive themselves in their studies while remaining critical of the authorities therein. “In this way, [librarians] can help students see that information is constructed and contested not monolithic and apolitical.” </p>  
 
 
-**Wallis, Lauren. 2016. “Mapping Power and Privilege in Scholarly Conversations.” In Pagowsky and McElroy, 1-8.**  
+**Wallis, Lauren. 2016. “Mapping Power and Privilege in Scholarly Conversations.” In Pagowsky and McElroy(b), 1-8.**  
 [Link to Reference](. . 
 
 <p style="text-indent: 40px">Willis criticizes assignments that impose academic power structures on students. These types of assignments include annotated bibliographies and literatures because they force the students to “mimic tradition forms of scholarly writing” through disciplinary gatekeeping. Through these assignments and discourses, students are positioned as “intruders [on] the margins of the academy.” By providing library instruction for these assignments, librarians support the power-relationships that undermine the student’s agency in their areas of study. Willis presents a lesson plan to engage students and faculty in discourses on these power-relationships, using problem-posing pedagogy that aims to disrupt the authority of academic production.  </p>  
@@ -260,13 +260,13 @@ ISBN:	9781911500070  [Link to UNT Record](https://iii.library.unt.edu/record=b60
 
 
 ## Feminism
-**Cochran, Dory. 2016. “Using Pop Culture, Feminist Pedagogy, and Current Events to Help Students Explore Multiple Sides of an Argument.” In Pagowsky and McElroy, 109-116.**  
+**Cochran, Dory. 2016. “Using Pop Culture, Feminist Pedagogy, and Current Events to Help Students Explore Multiple Sides of an Argument.” In Pagowsky and McElroy(b), 109-116.**  
 [Link to Reference](. .  
 
 <p style="text-indent: 40px">Drawing on the works of bell hooks, Cochran employs feminist pedagogy in her classroom as a way to encourage “self-reflection and critical listening” while discussing difficult social and cultural topics in safe, collaborative spaces. Cochran uses pop culture or current event topics because it allows students to learn how to research topics that they are familiar with and more likely have interest discussing multiple viewpoints.  </p>  
 
 
-**Ladenson, Sharon. 2016. “Speaking Up: Using Feminist Pedagogy to Raise Critical Questions in the Information Literacy Classroom.” In Pagowsky and McElroy, 41-48.**  
+**Ladenson, Sharon. 2016. “Speaking Up: Using Feminist Pedagogy to Raise Critical Questions in the Information Literacy Classroom.” In Pagowsky and McElroy(b), 41-48.**  
 [Link to Reference](. .  
 
 <p style="text-indent: 40px">Ladenson proposes methods to combine feminist pedagogy with collaborative, learner-centered instructional design. She explains that feminist classrooms are egalitarian in nature and foster open discussion environments that organically allow students to arrive at understanding through “critical inquiry.”  </p>  
@@ -278,13 +278,13 @@ ISBN: 9781634000277 [Link to UNT Record](https://iii.library.unt.edu/record=b590
 <p style="text-indent: 40px">Lew and Yousefi explore “intersections of gender with sexuality, race, class, and other social categories within libraries and other information environments have highlighted the need and desire of this community to engage with these concepts both in theory and praxis.” They focus on feminist theory in relation to library management, professional interactions, and career advancement. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
-**Schlesselman-Tarango, Gina and Frances Suderman. 2016. “Critical Pedagogy and the Information Cycle: A Practical Application.” In Pagowsky and McElroy, 59-70.**  
+**Schlesselman-Tarango, Gina and Frances Suderman. 2016. “Critical Pedagogy and the Information Cycle: A Practical Application.” In Pagowsky and McElroy(b), 59-70.**  
 [Link to Reference](. .  
 
 <p style="text-indent: 40px">Schlesselman-Tarango and Suderman combine critical pedagogy, feminism, and cyberfeminism facilitate critical thinking on sociopolitical topics in the news. They guide students to question how information is created and advertised on the web (and in databases) as well as observe the “social and political nature of information,” itself, and their discourse communities. Their exercise establish neutral, open classrooms that allow the students to discuss and learn collectively. Through the activities, the authors allowed to students examine “user-generated media” so that they may consider “the digital realm as a…productive space.” Students were encouraged to use any information resource they felt comfortable with instead of forcing the students to use databases. </p>  
 
 
-**Tewell, Eamon and Katelyn Angell. 2016. “Authority and Source Evaluation in the Critical Library Classroom.” In Pagowsky and McElroy, 49-58.**  
+**Tewell, Eamon and Katelyn Angell. 2016. “Authority and Source Evaluation in the Critical Library Classroom.” In Pagowsky and McElroy(b), 49-58.**  
 [Link to Reference](. . 
 
 <p style="text-indent: 40px">Tewell and Angelll combine critical and feminist pedagogies to create a learning environment where students feel empowered to share their learning experiences in groups. In these groups, student discussed research topics, experimented with search strategies to find sources, and reflect on their processes.  </p>  
