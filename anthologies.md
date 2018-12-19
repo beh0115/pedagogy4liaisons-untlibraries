@@ -29,7 +29,7 @@ IBSN: 9780838915127 [Link to UNT Record](https://iii.library.unt.edu/record=b604
 <p style="text-indent: 40px">As a practical handbook for instruction librarians, this book seeks to aid in the development and support of librarians, colleagues, and supervisors by sharing the experiences of the authors. Each authors, having their own method to train instruction librarians, provide rich content, resources, and training tips for professional seeking to enhance their teaching skills. <em>Suggested Chapters: All</em>.</p>
   
 
-**Pagowsky, Nicole and Kelly McElroy. 2016 *Critical Library Pedagogy Handbook* Vol. 1. Illinois: American Libraries Association.**     
+**Pagowsky, Nicole and Kelly McElroy. 2016(a). *Critical Library Pedagogy Handbook* Vol. 1. Illinois: American Libraries Association.**     
 IBSN: 9780838988473 [Link to UNT Record](https://iii.library.unt.edu/record=b5717285~S12).   
 
 <p style="text-indent: 40px">In first part of this two part volumes, Pagowsky and McElroy admit that critical pedagogy can often be alienating due to the complex jargon and theories it introduces. Their focus on this series is to introduce reflectivity and social justice to in practical ways that reduce hegemonic norms (from academia) in librarian practice. They aim to encourage librarians to engage in praxes through essays highlighting personal practices, projects, and ideology that have been influential to librarians integrating critical pedagogy into their work. With this aim in mind, they provide workbook activities at the end of the first (this) volume. Note: the second volume contains lesson plans which have been distributed throughout the Types of Pedagogy section. <em>Suggested Chapters: 1-2, 4-10, 12-22, 24-25, 28-30</em>.</p>
