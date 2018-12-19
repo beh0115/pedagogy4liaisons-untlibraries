@@ -48,7 +48,7 @@ IBSN: 9781936117178 [Link to UNT Record](https://iii.library.unt.edu/record=b381
 IBSN: 9780838989098 [Link to UNT Record](https://iii.library.unt.edu/record=b5921237~S12)
 
 
-<p style="text-indent: 40px">Hensley discusses how undergraduate research is a high-impact academic practice of the undergraduate experience according to George Kuh and ACRL. Undergradaute level research connects student interests with academic core, increases learning, and furthers their writing and academic progress. However, the library and instruction from librarians are often missing in the research infrastructure. Hensley explains services and cross-departmental collaborations that librarians can use to intervene in the research process and increase the success of undergraduate researchers. Complier’s Note: Added in 2018 for second edition of annotated bibliography. </P>   
+<p style="text-indent: 40px">Hensley discusses how undergraduate research is a high-impact academic practice of the undergraduate experience according to George Kuh and ACRL. Undergradaute level research connects student interests with academic core, increases learning, and furthers their writing and academic progress. However, the library and instruction from librarians are often missing in the research infrastructure. Hensley explains services and cross-departmental collaborations that librarians can use to intervene in the research process and increase the success of undergraduate researchers. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</P>   
 
 
 **Hodge, Megan. 2015. "Pedagogy for Librarians." In *Skills to Make a Librarian: Transferable Skills Inside and Outside the Library,* edited by Dawn Lowe-Wincentsen, 155-174. Cambridge, UK: Chandos.**  
@@ -69,11 +69,11 @@ IBSN: 9781555709891 [Link to UNT Record](https://iii.library.unt.edu/record=b455
 IBSN: 9781634000048 [Link to UNT Record](https://iii.library.unt.edu/record=b5429070~S12).
 
  
-<p style="text-indent: 40px">The contributors to this text share best practices, cases studies, and activities that aim to establish a library network focused on advancing learning for sustainability. *Complier’s Note: Added in 2018 for second edition of annotated bibliography.* </p>  
+<p style="text-indent: 40px">The contributors to this text share best practices, cases studies, and activities that aim to establish a library network focused on advancing learning for sustainability. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
 **Spencer, Lynn Gullickson, Leanne VandeCreek, and H. Stephen Wright, eds. 2013. *The Psychology of Librarianship.* Sacramento: Litwin Books.**  
 IBSN: 9781634000406 [Link to UNT Record](https://iii.library.unt.edu/record=b5795402~S12).
 
 
-<p style="text-indent: 40px">In addition to chapters on librarian stereotypes and self-image, the editors examines the psychology frameworks with librarianship. They explore the Myers-Briggs as an indicator of employee motivation, critical information literacy as a social psychological perspective; the use of prospect theory as a cognitive tool, and reconsidering reference for a generation without boundaries. Complier’s Note: Added in 2018 for second edition of annotated bibliography.</p>  
+<p style="text-indent: 40px">In addition to chapters on librarian stereotypes and self-image, the editors examines the psychology frameworks with librarianship. They explore the Myers-Briggs as an indicator of employee motivation, critical information literacy as a social psychological perspective; the use of prospect theory as a cognitive tool, and reconsidering reference for a generation without boundaries. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
