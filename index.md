@@ -38,7 +38,7 @@ This annotated bibliography is not exhaustive and more work needs to be done.
 
 If there are materials that you would like added to this list or if you would like to revise an existing annotation, please send them to the Liaison Workgroup Co-Chairs or the project complier, Brea Henson, by email or use the GitHub pull feature. 
 
->Each year a .pdf version is archived in the [UNT Scholarly Works Repository](/https://digital.library.unt.edu/explore/collections/UNTSW/).   
+>Each year a .pdf version is archived in the [UNT Scholarly Works Repository](https://digital.library.unt.edu/ark:/67531/metadc1181169/?q=brea%20henson).   
 
 
 
