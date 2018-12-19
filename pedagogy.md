@@ -31,7 +31,7 @@ DOI: 10.15760/comminfolit.2014.8.1.164  [Link to Item](https://search.proquest.c
 
 
 **Cook, Douglas. 2008. “Why Should Librarians Care About Pedagogy?” Cook and Sittler. 1-19.**  
-[Link to Reference]  [Link to UNT Record](http://iii.library.unt.edu/record=b3659872~S12]).
+[Link to Reference](https://behenson.github.io/pedagogy4liaisons/references.html).
 
  
 <p style="text-indent: 40px">Cook extrapolates on two pedagogy that are discussed through this anthology. These theories are direct instruction and student-centered learning. In this opening essay, he provides librarians with an understanding of why pedagogical exploration and methodology are important to the library profession. He argues that choosing pedagogical methods affects how students learn. </p>  
