@@ -37,7 +37,7 @@ ISBN:	9780838986837 [Link to UNT Record](http://iii.library.unt.edu/record=b5982
 **Guest, Tom, Katherine Turner, Karen Carney. 2017. "Learning (and Teaching) On The Job: Developing and Extending the Skills Needed to Deliver Information Literacy Workshops." *Collaborate: Libraries in Learning Innovation* 2.**  
 [Link to Record](https://ojs.leedsbeckett.ac.uk/index.php/COL/article/view/4531/4350).  
 
-**Jantz, Ronald. 2016. *Managing Creativity: The Innovative Research Library*. Illinois: ACRL.** 
+**Jantz, Ronald. 2016. *Managing Creativity: The Innovative Research Library*. Illinois: ACRL.**  
 ISBN:	9780838988343 [Link to Record](http://iii.library.unt.edu/record=b5982747~S12).  
 
 **Jefferson, William and Eloise M. Long. 2008. “Electronic Portfolios as a Means of Authentic Assessment.” In Cook and Sittler. 139-146.**   
@@ -56,7 +56,7 @@ ISBN: 9780393931358 [Link to UNT Record](http://iii.library.unt.edu/record=b5982
 **Montgomery, Molly. 2015. "Pedagogy for Practical Library Instruction: What Do We "Really" Need to Know?" *Communications in Information Literacy* 9, no. 1: 19-23.**  
 [Direct Link to Item](https://files.eric.ed.gov/fulltext/EJ1089285.pdf).  
 
-**Lippincott, Joan, Anu Vedantham, and Kim Duckett. 2014. “Libraries as Enablers of Pedagogical and Curricular Change.” *EDUCAUSE Review.**
+**Lippincott, Joan, Anu Vedantham, and Kim Duckett. 2014. “Libraries as Enablers of Pedagogical and Curricular Change.” *EDUCAUSE Review.**  
 [Direct Link to Item](https://er.educause.edu/articles/2014/10/libraries-as-enablers-of-pedagogical-and-curricular-change). 
 
 **Pagowsky, Nicole, and Kelly McElroy, ed. 2016a. *Essays and Workbook Activities*. Vol. 1 of *Critical Library Pedagogy Handbook*. Illinois: Association of College and Research Libraries.**
@@ -84,7 +84,7 @@ DOI:10.1016/j.acalib.2006.03.006 [Link to Record](https://doi.org/10.1016/j.acal
 DOI: 10.1016/j.acalib.2006.03.006 [Link to Record](https://doi.org/10.1016/j.acalib.2006.03.006).  
 
 **Wilkinson, James. (2000) 2008. "From Transmission to Research: Libraries at the Heart of the Campus." In *Future Teaching Roles for Academic Librarians*. Edited by Alice Harrison Bahr. Philadelphia: The Haworth Press. Published online in *College & Undergraduate Libraries* 6, no. 2: 25-40.**  
-ISBN	0789009749 [Link to UNT Record of the 1st Publication](https://iii.library.unt.edu/record=b2373710~S12).
+ISBN	0789009749 [Link to UNT Record of the 1st Publication](https://iii.library.unt.edu/record=b2373710~S12).  
 DOI: 10.1300/J106v06n02_03 [Link to Online Record](https://doi.org/10.1300/J106v06n02_03).  
 
 **Willoughby, Lydia and Kelly Blanchat. 2016. “Social Justify Your Lesson Plan: How to Use Social Media to Make Pop Culture Scholarly.” In Pagowsky and McElroy, 207-214.**  
