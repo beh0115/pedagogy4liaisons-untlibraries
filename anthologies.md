@@ -45,7 +45,7 @@ ISBN: 9781477308257 [Link to UNT Record](https://iii.library.unt.edu/record=b571
 
 **Oberlies, Mary K. and Janna Mattson, eds. 2018. *Framing Information Literacy: Teaching Grounded in Theory, Pedagogy, and Practice.* 6 vols. Chicago: Association of College and Research Libraries.**   
 
-Each volume contains the table of contents and index for the entire set, as well as an overarching introduction and conclusion, for easy cross-referencing across volumes.   
+<p style="text-indent: 40px">Each volume contains the table of contents and index for the entire set, as well as an overarching introduction and conclusion, for easy cross-referencing across volumes.</p>   
 
 * Volume 1:  [Research as Inquiry](http://iii.library.unt.edu/record=b6026221~S12). ISBN: 9780838989821.  
 * Volume 2: [Information has Value](http://iii.library.unt.edu/record=b6026248~S12). ISBN: 9780838989845.  
