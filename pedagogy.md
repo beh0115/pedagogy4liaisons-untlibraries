@@ -10,7 +10,7 @@ In this section, you will find articles and books that introduce and combine lit
 
 
 **Allan, Barbara. 2016. *Emerging Strategies for Supporting Student Learning: A practical Guide for Librarians and Educators.* London: Facet Publishing.**  
-ISBN-13: 978-1783300709 [Link to UNT Record](https://iii.library.unt.edu/record=b5762493~S12).
+ISBN: 978-1783300709 [Link to UNT Record](https://iii.library.unt.edu/record=b5762493~S12).
 
  
 <p style="text-indent: 40px">Allan presents a variety of different theories, teaching approaches, and learning styles that are shaping the “current higher education landscape.” She examines how these facets can be used within the library to enhance information instruction. Her aim is to present this information in a way that assists librarians with “designing, developing, and evaluating” their courses and teaching methods to impact student learning. </p>  
@@ -38,14 +38,14 @@ DOI: 10.15760/comminfolit.2014.8.1.164  [Link to Item](https://search.proquest.c
 
 
 **Cossette, André. (1979) 2009. *Humanism and Libraries: An Essay on the Philosophy of Librarianship.* Translated by Rory Litwin. Minnesota: Library Juice Press.**  
-IBSN: 9781936117178 [Link to UNT Record](https://iii.library.unt.edu/record=b3810017~S12).
+ISBN: 9781936117178 [Link to UNT Record](https://iii.library.unt.edu/record=b3810017~S12).
 
 
 <p style="text-indent: 40px">Cossette presents a simple, systematic philosophy of librarianship to highlight the intrinsic rationality of library work, illuminate the “contradictions” in our practice, and enlighten the “consequences” of how we approach or fail to approach our work. Cossette argues that “without a philosophical foundation, we lack a basis for making decisions regarding how to change our institutions in response to external forces, with the result that we do not play the role that we should in decision-making” (Litwin 2009). It assist with communicating our importance to our constituents and solidifies our work within the context of our institution who fail to recognize the ways on which we support academic discourses and how our professionals are intellectual partners. Cossette reasons that our profession is not best suited to scientific structures as these structures disrupt our devotion to our values, especially those of humanism and service, and “fragment[s]” our purpose, our solidarity, with each other between the types of work that we do within the library profession. A philosophy of librarianship is the only way that we can un-silo our profession. </p>  
 
 
 **Hensley, Merinda Kaye and Stephanie Davis-Kahl. 2017. *Undergraduate Research & the Academic Librarian: Cases Students and Best Practices.* Chicago: ACRL.**  
-IBSN: 9780838989098 [Link to UNT Record](https://iii.library.unt.edu/record=b5921237~S12)
+ISBN: 9780838989098 [Link to UNT Record](https://iii.library.unt.edu/record=b5921237~S12)
 
 
 <p style="text-indent: 40px">Hensley discusses how undergraduate research is a high-impact academic practice of the undergraduate experience according to George Kuh and ACRL. Undergradaute level research connects student interests with academic core, increases learning, and furthers their writing and academic progress. However, the library and instruction from librarians are often missing in the research infrastructure. Hensley explains services and cross-departmental collaborations that librarians can use to intervene in the research process and increase the success of undergraduate researchers. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</P>   
@@ -59,21 +59,21 @@ DOI: 10.1016/B978-0-08-100063-2.00014-4 [Link to UNT Record](http://dx.doi.org/1
 
 
 **Mackey, Thomas P. and Trudi E. Jacobson. 2014. *Metaliteracy: Reinventing Information Literacy to Empower Learners.* Illinois: American Library Association. 1-31.**  
-IBSN: 9781555709891 [Link to UNT Record](https://iii.library.unt.edu/record=b4559345~S12).
+ISBN: 9781555709891 [Link to UNT Record](https://iii.library.unt.edu/record=b4559345~S12).
 
  
 <p style="text-indent: 40px">Mackey and Jacobson discuss the ways in which librarians can seek to tie literacies together to form a cohesive praxis of approaching learning and literacy issues. They aim at identifying how new technologies can disrupt information literacy because they make grasping the larger context of literacy and learning more difficult. They examine theories that can be used to stich the literacies together within the fabric of praxis to develop an overarching idea of metaliteracy. </p>  
 
  
 **Jankowska, Maria A., ed. 2012. *Focus on Educating for Sustainability : Toolkit for Academic Libraries.* Sacramento: Library Juice Press.**  
-IBSN: 9781634000048 [Link to UNT Record](https://iii.library.unt.edu/record=b5429070~S12).
+ISBN: 9781634000048 [Link to UNT Record](https://iii.library.unt.edu/record=b5429070~S12).
 
  
 <p style="text-indent: 40px">The contributors to this text share best practices, cases studies, and activities that aim to establish a library network focused on advancing learning for sustainability. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
 
 
 **Spencer, Lynn Gullickson, Leanne VandeCreek, and H. Stephen Wright, eds. 2013. *The Psychology of Librarianship.* Sacramento: Litwin Books.**  
-IBSN: 9781634000406 [Link to UNT Record](https://iii.library.unt.edu/record=b5795402~S12).
+ISBN: 9781634000406 [Link to UNT Record](https://iii.library.unt.edu/record=b5795402~S12).
 
 
 <p style="text-indent: 40px">In addition to chapters on librarian stereotypes and self-image, the editors examines the psychology frameworks with librarianship. They explore the Myers-Briggs as an indicator of employee motivation, critical information literacy as a social psychological perspective; the use of prospect theory as a cognitive tool, and reconsidering reference for a generation without boundaries. <em>Complier’s Note: Added in 2018 for second edition of annotated bibliography</em>.</p>  
