@@ -56,7 +56,7 @@ ISBN: 9780393931358 [Link to UNT Record](http://iii.library.unt.edu/record=b5982
 **Montgomery, Molly. 2015. "Pedagogy for Practical Library Instruction: What Do We "Really" Need to Know?" *Communications in Information Literacy* 9, no. 1: 19-23.**  
 [Direct Link to Item](https://files.eric.ed.gov/fulltext/EJ1089285.pdf).  
 
-**Lippincott, Joan, Anu Vedantham, and Kim Duckett. 2014. “Libraries as Enablers of Pedagogical and Curricular Change.” *EDUCAUSE Review.**  
+**Lippincott, Joan, Anu Vedantham, and Kim Duckett. 2014. “Libraries as Enablers of Pedagogical and Curricular Change.” *EDUCAUSE Review*.**  
 [Direct Link to Item](https://er.educause.edu/articles/2014/10/libraries-as-enablers-of-pedagogical-and-curricular-change). 
 
 **Pagowsky, Nicole, and Kelly McElroy, ed. 2016a. *Essays and Workbook Activities*. Vol. 1 of *Critical Library Pedagogy Handbook*. Illinois: Association of College and Research Libraries.**
