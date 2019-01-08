@@ -47,6 +47,9 @@ DOI: 10.2307/40323845. [Link to Record](https://www.jstor.org/stable/40323845).
 
 **Levitan, Gina. 2016. “Historical Newspapers and Critical Thinking: A Lesson Plan.” In Pagowsky and McElroy(b), 169-178.**  
 
+**Lippincott, Joan, Anu Vedantham, and Kim Duckett. 2014. “Libraries as Enablers of Pedagogical and Curricular Change.” *EDUCAUSE Review*.**  
+[Direct Link to Item](https://er.educause.edu/articles/2014/10/libraries-as-enablers-of-pedagogical-and-curricular-change). 
+
 **McNicol, Sarah, ed. 2016. *Critical Literacy for Information Professionals*. London: Facet Publishing.**  
 ISBN: 9781783301508 [Link to UNT Record](http://iii.library.unt.edu/record=b6097333~S12). 
 
@@ -55,9 +58,6 @@ ISBN: 9780393931358 [Link to UNT Record](http://iii.library.unt.edu/record=b5982
 
 **Montgomery, Molly. 2015. "Pedagogy for Practical Library Instruction: What Do We "Really" Need to Know?" *Communications in Information Literacy* 9, no. 1: 19-23.**  
 [Direct Link to Item](https://files.eric.ed.gov/fulltext/EJ1089285.pdf).  
-
-**Lippincott, Joan, Anu Vedantham, and Kim Duckett. 2014. “Libraries as Enablers of Pedagogical and Curricular Change.” *EDUCAUSE Review*.**  
-[Direct Link to Item](https://er.educause.edu/articles/2014/10/libraries-as-enablers-of-pedagogical-and-curricular-change). 
 
 **Pagowsky, Nicole, and Kelly McElroy, ed. 2016a. *Essays and Workbook Activities*. Vol. 1 of *Critical Library Pedagogy Handbook*. Illinois: Association of College and Research Libraries.**
 ISBN: 9780838988473 [Link to UNT Record](https://iii.library.unt.edu/record=b5717285~S12). 
