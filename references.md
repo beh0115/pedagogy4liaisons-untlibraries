@@ -48,7 +48,7 @@ DOI: 10.2307/40323845. [Link to Record](https://www.jstor.org/stable/40323845).
 **Levitan, Gina. 2016. “Historical Newspapers and Critical Thinking: A Lesson Plan.” In Pagowsky and McElroy(b), 169-178.**  
 
 **McNicol, Sarah, ed. 2016. *Critical Literacy for Information Professionals*. London: Facet Publishing.**  
-ISBN: 9781783301508 [Link to UNT Record](. 
+ISBN: 9781783301508 [Link to UNT Record](http://iii.library.unt.edu/record=b6097333~S12). 
 
 **Miller, Susan, ed. 2009. *The Norton Book of Composition Studies*. New York: W. W. Norton and Company.**  
 ISBN: 9780393931358 [Link to UNT Record](http://iii.library.unt.edu/record=b5982776~S12). 
