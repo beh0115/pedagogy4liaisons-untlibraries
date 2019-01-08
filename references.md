@@ -16,7 +16,7 @@ Here is a selection of additional articles on similar topics for continued readi
 **Clark, Sarah. 2016. “Exploring pedagogical implications of students’ search mediation experiences through the lens of critical information literacy.” In McNicol, 139-149.**  
 
 **Cook, Douglas and Ryan L. Sittler, eds. 2008. *Practical Pedagogy for Library Instructors: 17 Innovative Strategies to Improve Student Learning*. Chicago: American Library Association.**  
-ISBN: 978-0838984581 [Link to UNT Record](.  
+ISBN: 978-0838984581 [Link to UNT Record](https://iii.library.unt.edu/record=b6097310~S12).  
 
 **DiNardo, Carl. 2008. “Web 2.0: Using a Wiki to Extend Learning beyond the Classroom Walls.” In Cook and Sittler. 118-126.**   
 
