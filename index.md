@@ -43,3 +43,4 @@ If there are materials that you would like added to this list or if you would li
 
 
 _Last Updated December 2018. Complied by [Brea Henson](https://www.library.unt.edu/people/brea-henson), UNT Libraries._ 
+This work is liscensed under a [Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/). 
